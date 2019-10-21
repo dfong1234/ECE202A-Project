@@ -21,13 +21,23 @@ There has been a lot of prior technology regarding distracted and drowsy driving
 
 ## Sources
 [1]  “Distracted Driving,” National Highway Traffic Safety Administration, April 2019.
-	<https://www.nhtsa.gov/risky-driving/distracted-driving>.
-[2] “Drowsy Driving: Asleep at the Wheel,” Center for Disease Control and Prevention, November 2018. <https://www.cdc.gov/features/dsdrowsydriving/index.html>. 
-[3]  Consumer Reports, “Technology That Can Reduce Driving Distractions and Their Dangers,” Consumer Reports, November 2017. <https://www.consumerreports.org/car-safety/technology-that-can-reduce-driving-distractions-dangers-car-safety-features/>.
+<https://www.nhtsa.gov/risky-driving/distracted-driving>.
+
+[2] “Drowsy Driving: Asleep at the Wheel,” Center for Disease Control and Prevention, November 2018. 
+<https://www.cdc.gov/features/dsdrowsydriving/index.html>. 
+
+[3]  Consumer Reports, “Technology That Can Reduce Driving Distractions and Their Dangers,” Consumer Reports, November 2017. 
+<https://www.consumerreports.org/car-safety/technology-that-can-reduce-driving-distractions-dangers-car-safety-features/>.
+
 [4] D. Lee, S. Oh, S. Heo and M. Hahn, "Drowsy Driving Detection Based on the Driver's Head Movement using Infrared Sensors," 2008 Second International Symposium on Universal Communication, Osaka, 2008, pp. 231-236.
+
 [5] A. Sahayadhas, K. Sundaraj and M. Murugappan, “Detecting Driver Drowsiness Based on Sensors: A Review,” Sensors, 2012, pp. 16937-16953.
-[6] Hong Kong Baptist University, "Smartphone app detects and alerts sleepy drivers." ScienceDaily, ScienceDaily, June 2017. <www.sciencedaily.com/releases/2017/06/170616121811.htm>.
+
+[6] Hong Kong Baptist University, "Smartphone app detects and alerts sleepy drivers." ScienceDaily, ScienceDaily, June 2017. 
+<www.sciencedaily.com/releases/2017/06/170616121811.htm>.
+
 [7] J. Vicente, P. Laguna, A. Bartra, and et al., “Drowsiness detection using heart rate variability,” Medical & Biological Engineering & Computing, 2016, vol. 54 pp. 927-927.
+
 [8] S. Jo, J. Kim, and D. Kim, “Heart Rate Change While Drowsy Driving,” Journal of Korean Medical Science, 2019.
 
 
