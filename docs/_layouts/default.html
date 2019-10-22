@@ -43,12 +43,17 @@
         
         
         <div class="tab">
-          <button class="tablinks" onclick="openSection(event, 'Abstract')">Abstract</button>
+          <button class="tablinks" onclick="openSection(event, 'Abstract')" id="defaultOpen">Abstract</button>
           <button class="tablinks" onclick="openSection(event, 'Past Work')">Past Work</button>
           <button class="tablinks" onclick="openSection(event, 'Project Timeline')">Project Timeline</button>
           <button class="tablinks" onclick="openSection(event, 'Required Resources')">Required Resources</button>
           <button class="tablinks" onclick="openSection(event, 'Sources')">Sources</button>
         </div>
+        
+        <script>
+        // Get the element with id="defaultOpen" and click on it
+        document.getElementById("defaultOpen").click();
+        </script> 
         
         <div id='Abstract' class="tabcontent">
           <h3>Abstract</h3>
@@ -122,6 +127,8 @@
         document.getElementById(cityName).style.display = "block";
         evt.currentTarget.className += " active";
       } 
+      
+      
     </script>
     
     {% if site.google_analytics %}
