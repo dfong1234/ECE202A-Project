@@ -48,6 +48,7 @@
           <button class="tablinks" onclick="openSection(event, 'Project Timeline')">Project Timeline</button>
           <button class="tablinks" onclick="openSection(event, 'Required Resources')">Required Resources</button>
           <button class="tablinks" onclick="openSection(event, 'Division of Labor')">Division of Labor</button>
+          <button class="tablinks" onclick="openSection(event, 'Deliverables')">Deliverables</button>
           <button class="tablinks" onclick="openSection(event, 'Sources')">Sources</button>
         </div>
 
@@ -71,9 +72,15 @@
             <li>Week 9 - Get the whole system working together</li>
             <li>Week 10 - Debug final project, work on final presentation</li>
           </ul>
-          <p>Expected deliverables: Earables to detect head gestures, wristband to detect heart rate, application of wearables to control functions on the phone</p>
         </div>
-        
+        <div id='Deliverables' class="tabcontent">
+          <h3>Deliverables</h3>
+          <ul>
+            <li>Earables: The earables will be used to detect head gestures. It will serve this function in two ways. First, the user will be able to interact with their phones hands-free. Secondly, the earables will notice patterns in head movements to identify if the user is drowsy.
+            <li>Wrist Sensor: The wrist sensor will be used to detect heart rate, specifically heart rate variablility (HRV). Once this is working, the wristband should notify the user if there is a considerable drop in HRV. This would indicate that the user is drowsy.
+            <li>Phone App: The phone app will be used to take information from the user and respond accordingly. It will only activate if the phone detects that the car is actually moving. For drowsy driving, it will take inputs from both the earables and the wrist sensor to determine whether or not the driver is drowsy. If so, the driver will be given the option to take an alternate shorter route to a nearby coffee shop/rest area. This message will only appear once every 30 minutes. The driver can accept or decline using the earables. Other features for the phone app include using the earables to accept/decline calls (high priority) and being able to change songs on Spotify (lower priority).
+          </ul>
+        </div>
         <div id='Division of Labor' class="tabcontent">
           <h3>Division of Labor</h3>
           <p>For now, we plan on splitting the work evenly. Once we get the resources, we will have a better idea on how the work will be divided. Initially, one person might focus on the earables, while the other person will be more responsible for the wristband.</p>
@@ -82,9 +89,9 @@
         <div id='Required Resources' class="tabcontent">
           <h3>Required Resources</h3>
           <ul>
-            <li>Earables (two pairs just in case and if possible)</li>
-            <li>Wearable wristband to detect heart rate (can be Hexiwear or the ones from the lab)</li>
-            <li>Android phone (we only have one between the two of us)</li>
+            <li>Earables (currently have one pair)</li>
+            <li>Wearable wristband to detect heart rate (currently have the ones from the lab)</li>
+            <li>Android phone (currently borrowing the Nexus 5 for Eric Sato who does not have an Android)</li>
           </ul>
         </div> 
         
