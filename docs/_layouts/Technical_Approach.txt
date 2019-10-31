@@ -1,0 +1,1 @@
+We will utilize the earables to detect head position. Then, we will collect data on drowsy drivers and use a pattern recognition algorithm to determine if the user is drowsy.
